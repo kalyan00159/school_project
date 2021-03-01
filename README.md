@@ -1,1 +1,2 @@
-# school_project
+# basic-website
+A static school website
